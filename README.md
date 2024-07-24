@@ -1,12 +1,13 @@
 # RAG-App-using-AWS-Bedrock-and-FAISSDB
 
-![Screenshot10](https://github.com/user-attachments/assets/31a13930-cb86-403e-99a0-7dedbe2a1840)
-![Screenshot9](https://github.com/user-attachments/assets/8a10c392-5f2f-4ff3-899d-421ec831d619)
-![Screenshot8](https://github.com/user-attachments/assets/cd498f70-6802-4b4c-86d7-62994cf65b7d)
-![Screenshot7](https://github.com/user-attachments/assets/76be2db1-7062-4030-86bf-dbe7a396af68)
-![Screenshot6](https://github.com/user-attachments/assets/d243ff84-2b2b-4be0-82a8-12a3df33cb6f)
-![Screenshot5](https://github.com/user-attachments/assets/8869b5af-cdee-4fcd-9379-24d2cdc1c71d)
-![Screenshot4](https://github.com/user-attachments/assets/05483d2c-a1ac-4563-a300-da43d7d0c9c3)
-![Screenshot3](https://github.com/user-attachments/assets/ac63c8e4-a80e-4678-a5ae-9c42f9185920)
-![Screenshot2](https://github.com/user-attachments/assets/9337cd5a-0b34-4cc2-b9de-6a7223a59018)
-![Screenshot1](https://github.com/user-attachments/assets/273a3eee-3fa0-4db5-9bb8-6660e3906012)
+![Screenshot10](https://github.com/user-attachments/assets/29da1780-869f-40f6-883f-a3f453a3e8e6)
+![Screenshot9](https://github.com/user-attachments/assets/c5083dd5-b731-4e0b-9b6f-68debc94d1d4)
+![Screenshot8](https://github.com/user-attachments/assets/e5c2055a-d391-433f-a1a5-4e7adb20d494)
+![Screenshot7](https://github.com/user-attachments/assets/526a1f3a-d9ab-4c0a-857c-4c931680ade4)
+![Screenshot6](https://github.com/user-attachments/assets/c3080f01-ed7d-4757-81dc-82e7f7f65b43)
+![Screenshot5](https://github.com/user-attachments/assets/6efaa54f-fa8f-4c86-915c-efb2d2e65903)
+![Screenshot4](https://github.com/user-attachments/assets/b2853c96-795f-4217-aaf4-ac83b0f335d1)
+![Screenshot3](https://github.com/user-attachments/assets/92a5e3b0-0133-48dd-92bc-62255295abf9)
+![Screenshot2](https://github.com/user-attachments/assets/e9a2e422-1abe-4ba7-85f5-015807f460ea)
+![Screenshot1](https://github.com/user-attachments/assets/e491807d-4ccc-43cd-b79f-25b4f9179693)
+
