@@ -1,5 +1,9 @@
 # RAG-App-using-AWS-Bedrock-and-FAISSDB
 
+**Before implementing the below, create a virtual environment using the command "conda create -p ven python==3.12" and activate the environment "conda activate '.....\venv'". Then install the necessary modules by "pip install requirements.txt".**
+
+**To run it --> "streamlit run app.py"**
+
 **1) Updated the vector database by loading the documents from the Data folder and creating embeddings to be stored in the document index. The vector database is created locally and named "faiss_index".**
 
 ![Screenshot1](https://github.com/user-attachments/assets/ad1e97bd-8ae4-4f4a-9320-bf65ea55a412)
