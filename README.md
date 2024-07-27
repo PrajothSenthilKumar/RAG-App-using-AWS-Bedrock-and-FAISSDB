@@ -1,6 +1,6 @@
 # RAG-App-using-AWS-Bedrock-and-FAISSDB
 
-**Before implementing the below, create a virtual environment using the command "conda create -p venv python==3.12" and activate the environment "conda activate '.....\venv'". Then install the necessary modules by "pip install requirements.txt".**
+**Before implementing the below, create a virtual environment using the command "conda create -p venv python==3.12" and activate the environment "conda activate '.....\venv'". Then install the necessary modules by "pip install -r requirements.txt".**
 
 **To run it --> "streamlit run app.py"**
 
